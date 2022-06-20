@@ -23,3 +23,7 @@ hr {
 textarea {
 vertical-align: top;
 }
+
+li{
+  margin: 10px 0;
+}
