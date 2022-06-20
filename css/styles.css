@@ -1,0 +1,25 @@
+body {
+  background-color: #F9F2ED;
+  color: #4CACBC;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  line-height: 0.9;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+hr {
+  position: relative;
+  border: none;
+  height: 12px;
+  background: #94B49F;
+  margin-bottom: 50px;
+  border-style: none;
+}
+
+textarea {
+vertical-align: top;
+}
